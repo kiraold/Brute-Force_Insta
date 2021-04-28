@@ -14,15 +14,9 @@ Open source, you can modify it
 
 Usage of insTof for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![tweet](https://steamuserimages-a.akamaihd.net/ugc/943951547336911675/8FC1DADCBAF77B83508E1E203373F3EEFF9D7DF9/)
-
-### A look at the tool
-
-![tweet](https://www.up-00.com/i/00201/wphv5gf78n85.jpg)
-
 
 ## Getting Started
-1. ```git clone https://github.com/0xfff0800/Brute-force-Instagram-2021.git```
+1. ```git clone https://github.com/kiraold/Brute-Force_Insta_V1.git```
 2. ```cd Brute-force-Instagram-2021```
 3. ```python3 insTof5.py```
 
@@ -35,16 +29,4 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 - Backbox  
 - Android - Trimix
 - Iphone - python ai 
-
-## BUG ? 
-- Please Submit new issue 
-- Contact me
-- Hey ? do you want ask about all my tools ? you can join me in [Telegram](https://T.me/flaah999)
-
-## Donations 
-
- <img src="https://www.up-00.com/i/00176/4gu5yi4fwmgt.jpg" width="30%"></img>
- 
- ## Download and Clone
- > Download: Click [Here](https://github.com/0xfff0800/Brute-force-Instagram-2020/archive/master.zip) (Brute-force-Instagram-2020.zip)
  
