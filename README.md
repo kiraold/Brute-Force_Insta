@@ -19,6 +19,8 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 1. ```git clone https://github.com/kiraold/Brute-Force_Insta```
 2. ```cd Brute-Force_Insta```
 3. ```python3 insTof5.py```
+4. ```username:----------```
+5. ```wordlist:----------```
 
 
 ## A Kali Linux operating system. We recommend :
