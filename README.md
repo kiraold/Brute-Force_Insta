@@ -17,7 +17,7 @@ Usage of insTof for attacking targets without prior mutual consent is illegal. I
 
 ## Getting Started
 1. ```git clone https://github.com/kiraold/Brute-Force_Insta_V1.git```
-2. ```cd Brute-force-Instagram-2021```
+2. ```cd Brute-Force_Insta```
 3. ```python3 insTof5.py```
 
 
